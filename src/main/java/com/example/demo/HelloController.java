@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * Created by x002070 on 6/18/2017.
+ * Created by  on 6/18/2017.
  */
 
 @RestController

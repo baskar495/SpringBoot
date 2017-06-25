@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Created by x002070 on 6/18/2017.
+ * Created by  on 6/18/2017.
  */
 
 @Entity

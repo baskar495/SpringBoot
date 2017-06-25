@@ -3,7 +3,7 @@ package com.example.demo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * Created by x002070 on 6/24/2017.
+ * Created by  on 6/24/2017.
  */
 
 public interface EmployeeTryRepository extends JpaRepository<EmployeeTry, Long> {
